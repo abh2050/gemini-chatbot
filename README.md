@@ -1,4 +1,11 @@
 ![image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c06c5d5-d8b7-4499-b202-cc9826c489e9_900x701.png)
+
+![dotenv 0.20.0](https://img.shields.io/badge/dotenv-0.20.0-brightgreen?style=flat)
+![Streamlit 1.10.0](https://img.shields.io/badge/Streamlit-1.10.0-blue?style=flat)
+![Google API](https://img.shields.io/badge/Google_API-latest-yellow?style=flat)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python&logoColor=white)
+
+
 # Gemini LLM Application
 
 This project implements a question-and-answer application using the Gemini Pro model from Google's Generative AI library, integrated into a Streamlit web application. It allows users to interact with the Gemini model to get responses to their queries.
